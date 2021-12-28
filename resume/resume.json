@@ -1,0 +1,200 @@
+{
+  "selectedTemplate": 2,
+  "headings": {
+    "education": "Education",
+    "projects": "",
+    "awards": "Achievements"
+  },
+  "basics": {
+    "name": "Adam Dobrawy",
+    "phone": "+48 737 164 661",
+    "location": {
+      "address": "Warsaw, PL"
+    },
+    "email": "dobrawy.adam@gmail.com",
+    "website": "https://linkedin.com/in/adam-dobrawy"
+  },
+  "education": [
+    {
+      "area": "Computer Science",
+      "studyType": "BS",
+      "startDate": "2014",
+      "endDate": "2019",
+      "institution": "University of Natural Sciences and Humanities ",
+      "location": "Siedlce, PL"
+    },
+    {
+      "institution": "University of Natural Sciences and Humanities ",
+      "location": "Siedlce, PL",
+      "studyType": "MS",
+      "area": "Computer Science",
+      "startDate": "2019",
+      "endDate": "2021"
+    }
+  ],
+  "work": [
+    {
+      "company": "HyperOne",
+      "location": "Warsaw, PL",
+      "position": "Public Cloud Engineer",
+      "website": "",
+      "startDate": "2018",
+      "highlights": [
+        "Creating and improving the service offer",
+        "Work of a team organized in the DevOps methodology",
+        "Research of cloud computing service technologies",
+        "Managing cooperation with subcontractors",
+        "Design, implementation, deployment and maintenance of microservices"
+      ],
+      "endDate": "2021"
+    },
+    {
+      "highlights": [
+        "Design and implementation of web applications for own needs organization",
+        "Design, implementation and maintenance of the entire environment IT organization",
+        "Managing a team of volunteers"
+      ],
+      "company": "Citizens Network Watchdog Poland",
+      "location": "Warsaw, PL",
+      "startDate": "2013",
+      "endDate": "Present",
+      "position": "IT systems administrator"
+    },
+    {
+      "highlights": [
+        "Analysis in the field of process automation, system integration, authorization model and BI reporting",
+        "Ongoing maintenance of the security of the ERP system operating in the Oracle Cloud environment"
+      ],
+      "company": "Orange",
+      "position": "IT Engineer",
+      "location": "Warsaw, PL",
+      "startDate": "2018",
+      "endDate": "2018"
+    },
+    {
+      "highlights": [
+        "Development of the containerized environment for open data systems",
+        "Analysis and development of The Comprehensive Knowledge Archive Network (CKAN) ecosystem"
+      ],
+      "company": "Ministry of Digital Affairs",
+      "position": "Open Data Analyst",
+      "location": "Warsaw, PL",
+      "startDate": "2017",
+      "endDate": "2017"
+    },
+    {
+      "highlights": [
+        "Designing and implementation of CMS software (engine) of the foundation portal",
+        "Deployment and maintenance of the Linux application server"
+      ],
+      "company": "Foundation RÓWNOŚĆ.INFO",
+      "position": "Back-end developer",
+      "location": "Warsaw, PL",
+      "startDate": "2014",
+      "endDate": "2017"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "NodeJS",
+        "Python",
+        "Bash"
+      ],
+      "name": "Programming"
+    },
+    {
+      "keywords": [
+        "Linux"
+      ],
+      "name": "OS"
+    },
+    {
+      "keywords": [
+        "Docker",
+        "Kubernetes"
+      ],
+      "name": "Containers"
+    },
+    {
+      "keywords": [
+        "Google Cloud",
+        "Microsoft Azure",
+        "Amazon Web Services (AWS)"
+      ],
+      "name": "Clouds"
+    },
+    {
+      "keywords": [
+        "Ansible",
+        "Terraform"
+      ],
+      "name": "Automation"
+    },
+    {
+      "keywords": [
+        "Zabbix",
+        "Telegraf",
+        "Prometheus",
+        "Loki",
+        "OpenTelemetry",
+        "Grafana"
+      ],
+      "name": "Observability"
+    },
+    {
+      "keywords": [
+        "Packer",
+        "Traefik",
+        "Cypress",
+        "Taiko",
+        "Selenium",
+        null
+      ],
+      "name": "Other"
+    },
+    {
+      "keywords": [
+        "GitHub Actions",
+        "TravisCI",
+        "Bitbucket Pipelines",
+        "CircleCI",
+        "GitLab CI"
+      ],
+      "name": "CI"
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "awarder": "Microsoft",
+      "title": "GitHub Action Hero",
+      "date": "2020",
+      "summary": "Recognized author of actions - one of them has 700+ stars "
+    },
+    {
+      "title": "Open-source contributor",
+      "summary": "Mainainer of django-guardian (3,1k+ star), django-mailbox (250+ star), python-anticaptcha (150+ star)",
+      "date": "Ongoing"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
