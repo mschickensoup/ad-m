@@ -1,6 +1,6 @@
 ### Hey! I'm [@ad-m](https://github.com/ad-m) (Adam Dobrawy) 👋
 
-- 🇵🇱 I'm a software developer. I live in Warsaw, Poland, European Union.
+- 🇵🇱 I'm a cloud software engineer. I live in Warsaw, Poland, European Union.
 - 🔭 I’m currently working on:
   - individual contracts as an open-source contributor eg. Airbyte, Cloud-init, Alpine Linux.
   - transparency in the public realm, good government and the accountability of power in Poland through contributions to [watchdogpolska](github.com/watchdogpolska/), as well by court litigations,
